@@ -17,9 +17,6 @@ Dataset in .pkl format. Needs to be run through the .ipynb data cleaning process
 #### Requirements.txt:
 A requirements.txt file listing all the dependencies required to run the project.
 
-#### Empty gitignore:
-An empty .gitignore file excluding unnecessary files (e.g., .DS_Store, checkpoints) should I have them.
-
 ## Key Features
 #### Data Cleaning & EDA:
 Fixed erroneous years and analyzed trends in movie releases.
